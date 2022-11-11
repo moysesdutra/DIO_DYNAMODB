@@ -55,7 +55,7 @@ Moysés Dutra da Silva
 
 # Welcome to the project EER applied to a Car Shop Application!
 
-In this project proposed by DIO, a small context modeling was done on a automotive workshop application.  Some interviews were carried out to identify the customer's needs.  Based on these interviews, an EER model was made.  All activities were done using the MySQL Workbench application  .  All these studies were carried out according to the trail **Construa um Projeto Lógico de Banco de Dados do Zero** from the UNIMED BH 💚 bootcamp with DIO 💪 presented by  **Juliana Mascarenhas**.
+In this project proposed by DIO, a small context modeling was done on a automotive workshop application.  Some interviews were carried out to identify the customer's needs.  Based on these interviews, an EER model was made.  All activities were done using the MySQL Workbench application  .  All these studies were carried out according to the trail **Construa um Projeto Lógico de Banco de Dados do Zero** from the UNIMED BH 💚 bootcamp with DIO 💪 presented by  **Cassiano Peres**.
 
 # Files and Folders
 
